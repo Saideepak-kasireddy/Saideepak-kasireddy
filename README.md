@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hi there! I’m Saideepak Reddy, currently pursuing a Master’s in Information Systems at Northeastern University, honing my skills in database management, business intelligence, data analytics, and visualization.<br>🌱 I’m currently learning Databricks and Snowflake<br>💬 Ask me about Data Analytics and Visualization<br>📫 How to reach me kasireddy.sai@northeastern.edu<br>
+## Hi there! I'm Saideepak Reddy 👋
+
+**MS Information Systems @ Northeastern University** | Data Engineering & AI Systems
+
+### 🚀 Currently Building
+**LocalEats AI** - Multi-agent restaurant recommendation system orchestrating Yelp, Google Places, MBTA, and Boston Health data using Snowflake, dbt, and ML techniques.
+
+### 💡 Core Skills
+- **Data Engineering:** Snowflake, dbt, ETL/ELT pipelines, medallion architecture
+- **Distributed Computing:** HPC clusters, Dask, performance optimization
+- **AI/ML:** Multi-agent architectures, vector embeddings, LLM orchestration
+
+### 🌱 Exploring
+Advanced agentic AI frameworks, real-time data streaming, vector databases
+
+### 📫 Connect
+📧 kasireddy.sai@northeastern.edu  
+💬 Ask me about data pipelines, multi-agent AI, or distributed computing!
 
 
 ## 🌐 Socials:
