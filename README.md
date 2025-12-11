@@ -7,7 +7,7 @@
 **LocalEats AI** - Multi-agent restaurant recommendation system orchestrating Yelp, Google Places, MBTA, and Boston Health data using Snowflake, dbt, and ML techniques.
 
 ### 💡 Core Skills
-- **Data Engineering:** Snowflake, dbt, ETL/ELT pipelines, medallion architecture
+- **Data Engineering:** Snowflake, dbt, ETL/ELT pipelines, medallion architecture, Databricks, Airflow, Tableau
 - **Distributed Computing:** HPC clusters, Dask, performance optimization
 - **AI/ML:** Multi-agent architectures, vector embeddings, LLM orchestration
 
@@ -35,7 +35,6 @@ Advanced agentic AI frameworks, real-time data streaming, vector databases
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### Data Engineering & Analytics
@@ -60,7 +59,6 @@ Advanced agentic AI frameworks, real-time data streaming, vector databases
 
 #### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
